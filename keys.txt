@@ -1,0 +1,23 @@
+
+Accessing credentials for juliand123 in project asistecarGoogle 
+
+Api key maps google AIzaSyCgj-O0kMU2IN8dEPfjHCy_ug9AQaeOT3o
+Certificate Fingerprint:            61:6D:CF:1A:71:11:B1:94:F9:6A:51:38:9D:82:A0:F4:1C:49:62:A5
+Google Certificate Fingerprint:     61:6D:CF:1A:71:11:B1:94:F9:6A:51:38:9D:82:A0:F4:1C:49:62:A5
+Google Certificate Hash (SHA-1):    616DCF1A7111B194F96A51389D82A0F41C4962A5
+Google Certificate Hash (SHA-256):  4B6AFA936F5B2551661B5A8F449E04234615D219556B5F3CC57D4A22B8DF3B2D
+Facebook Key Hash:                  YW3PGnERsZT5alE4nYKg9BxJYqU= 
+
+Google Account
+Account:    soporteasistecar@gmail.com
+pass:       Asistecar2021
+
+Base User Login
+user: juanpedro@hotmail.com 
+pass: 123456
+
+Colors
+red:        #e7240e for botoms (confirm, save, etc)
+orange:     #ff8038 for alerts
+blue:       #3465f0 like purple
+dark blue:  #033249 background logo
